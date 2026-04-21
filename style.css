@@ -399,20 +399,8 @@ margin-top: 77px;
     margin-top: 74px;
     text-align: center;
 }
-client-btn{
+client_btn{
     margin-top: 74px;
     text-align: center;
 }
-.client-box{
-    position: relative;
-    background: url(img/image\ 6.png);
-    border-radius: 50px;
-    margin-top: 100px;
-}
-.col55-content{
-    max-width: 775px;
-    padding: 91px 0 66px;
-}
-.col55-content .h3-title{
-    margin-bottom: 35px;
-}
+
